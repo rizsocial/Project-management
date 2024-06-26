@@ -4,7 +4,7 @@
 [Dashboard (opens in Tableau Public)](https://public.tableau.com/views/ProjectManagementDashboard_17192068012070/ProjectDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
-![Screenshot](https://github.com/rizsocial/Project-management/blob/main/Project%20management%20dashboard%20in%20Tableau/1.png)
+![Screenshot](<a href="https://github.com/rizsocial/Project-management/blob/main/Project%20management%20dashboard%20in%20Tableau/1.png" target="_blank"><img src="https://github.com/rizsocial/Project-management/blob/main/Project%20management%20dashboard%20in%20Tableau/1.png" width="200"></a>
+)
 
 
-<a href="https://github.com/rizsocial/Project-management/blob/main/Project%20management%20dashboard%20in%20Tableau/1.png" target="_blank"><img src="https://github.com/rizsocial/Project-management/blob/main/Project%20management%20dashboard%20in%20Tableau/1.png" width="200"></a>
