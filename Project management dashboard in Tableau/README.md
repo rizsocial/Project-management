@@ -1,1 +1,5 @@
+## Project management dashboard in Tableau
+- Made use of interactive and powerful Tableau features to visualize project status, breakdown of responsibilities, completion rate and resource allocation with the use of Gantt chart, bar chart, pie chart and resource allocation matrix
+
+![Dashboard](https://public.tableau.com/views/ProjectManagementDashboard_17192068012070/ProjectDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
